@@ -1,4 +1,9 @@
-# This is the title
+---
+layout: post
+title:  "Solving a Decision Tree Using a Stack!"
+date:   2015-07-08 18:29:37
+categories: decision trees
+---
 
 In this blog post, we will cover decision tree problems using a stack. This method was brought to our attention by Matthieu Faugere and Tim Quach, fellow students at [Hack Reactor](http://www.hackreactor.com). 
 
