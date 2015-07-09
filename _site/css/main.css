@@ -93,8 +93,7 @@ code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 7px;
-  background-color: #000;
-  color: #FFF; }
+  background-color: #000; }
 
 code {
   padding: 1px 5px; }
@@ -436,8 +435,7 @@ pre {
   .highlight .sr {
     color: #009926; }
   .highlight .s1 {
-    color: #FC5353;
-    font-weight: bold; }
+    color: #FC5353; }
   .highlight .ss {
     color: #990073; }
   .highlight .bp {
