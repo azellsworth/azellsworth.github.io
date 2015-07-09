@@ -37,8 +37,8 @@ The general approach for solving for all solutions with a stack is as follows:
 
 {% highlight javascript %}
 var rpsSolutions = function(rounds){
-  // need to create an external solutions array
-  // need to create a stack, that will contain all the states leading up to the solutions
+  // create an external solutions array
+  // create a stack, which will contain all states leading up to the solutions
   // push an empty array to the stack - this represents the root of the tree
   // we need a current round variable, which will start at 0
   // we need an array containing possible throws
@@ -63,7 +63,7 @@ var rpsSolutions = function(rounds){
 var rpsSolutions = function(rounds){
   // need to create an external solutions array
   var solutions = [];
-  // need to create a stack, that will contain all the states leading up to the solutions
+  // create a stack, which will contain all states leading up to the solutions
   var stack = [];
   // push an empty array to the stack. This is the root of our decision tree
   stack.push([]);
