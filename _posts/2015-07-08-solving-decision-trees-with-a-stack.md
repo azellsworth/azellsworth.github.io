@@ -5,7 +5,7 @@ date:   2015-07-08 18:29:37
 categories: decision trees
 ---
 
-In this blog post, I'll cover decision tree problems using a stack. This method was brought to my attention by Matthieu Faugere and Tim Quach, fellow students at [Hack Reactor](http://www.hackreactor.com). The code and pseudocode were written by Kiri Strack-Grose and myself. 
+In this blog post, I'll cover solving decision tree problems using a stack. This method was brought to my attention by Matthieu Faugere and Tim Quach, fellow students at [Hack Reactor](http://www.hackreactor.com). The code and pseudocode were written by Kiri Strack-Grose and myself. 
 
 ## What is a Stack?
 A stack is a method of organizing data, where you add and remove from the top of the list. For example, when you place T-shirts into a drawer, you add shirts to the top of the pile and take out the top shirt first. When browsing the web, every time you click a link, you are adding a webpage to the history stack. Each time you press the back button, the browser is taking the webpage off the top of the history stack and showing it to you.
