@@ -35,7 +35,7 @@ The general approach for solving for all solutions with a stack is as follows:
 
 ##Rocks Paper Scissors Pseudocode 
 
-{% highlight javascript %}
+```javascript
 var rpsSolutions = function(rounds){
   // need to create an external solutions array
   // need to create a stack, that will contain all the states leading up to the solutions
@@ -55,11 +55,13 @@ var rpsSolutions = function(rounds){
     // increment the current round
   // return external solutions array
 };
+```
 {% endhighlight %}
 
 ##Javascript Code
 
-{% highlight javascript %}
+
+```javascript
 var rpsSolutions = function(rounds){
   // need to create an external solutions array
   var solutions = [];
@@ -99,7 +101,9 @@ var rpsSolutions = function(rounds){
   // return external solutions array
   return solutions;
 }
-{% endhighlight %}
+```
+
+
 
 You can try this out by copying the code into repl.it(hyperlink) or any other javascript tester. It could be helpful to step through with a debugger to see how it’s working.
 
