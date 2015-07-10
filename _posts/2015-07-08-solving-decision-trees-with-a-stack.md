@@ -40,7 +40,6 @@ var rpsSolutions = function(rounds){
   // create an external solutions array
   // create a stack, which will contain all states leading up to the solutions
   // push an empty array to the stack - this represents the root of the tree
-  // we need a current round variable, which will start at 0
   // we need an array containing possible throws
   // we need a while loop that will run until the stack is empty
     // (inside the while loop)
@@ -52,7 +51,6 @@ var rpsSolutions = function(rounds){
       // make a deep copy of the state
       // push the current possible throw to the stateCopy
       // push the stateCopy to the stack
-    // increment the current round
   // return external solutions array
 };
 {% endhighlight %}
