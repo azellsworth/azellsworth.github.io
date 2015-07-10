@@ -62,7 +62,6 @@ var rpsSolutions = function(rounds){
   var solutions = []; // external solutions array
   var stack = []; // starting empty stack
   stack.push([]); // starting state of an RPS game is an empty array
-  var currentRound = 0;
   var possibilities = ['rock', 'paper', 'scissors']; 
   while (stack.length) { // while loop will run until the stack is empty
     var state = stack.pop(); // pull a state out of the stack
@@ -77,7 +76,6 @@ var rpsSolutions = function(rounds){
         stack.push(stateCopy); // push the stateCopy to the stack
       }
     }
-    currentRound++; // move to the next round
   }
   return solutions; // return filled solutions array
 }
