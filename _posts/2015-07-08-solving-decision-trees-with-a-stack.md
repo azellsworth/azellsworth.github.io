@@ -81,7 +81,7 @@ var rpsSolutions = function(rounds){
 }
 {% endhighlight %}
 
-You can try this out by copying the code into repl.it(hyperlink) or any other javascript tester. It could be helpful to step through with a debugger to see how it’s working.
+You can try this out by copying the code into [repl.it](http://www.repl.it) or any other javascript tester. It could be helpful to step through with a debugger to see how it’s working.
 
 ##Takeaway
 
