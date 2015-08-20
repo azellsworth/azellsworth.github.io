@@ -7,7 +7,7 @@ categories: debugging
 
 ##Debugging short code
 
-Have you ever been writing a short piece of javascript and wished you could debug it easily? If you enjoy using the chrome developer tools (which has a great debugger), they have a special feature called snippits to help you with just that. 
+Have you ever been writing a short piece of javascript and wished you could debug it easily? If you enjoy using the chrome developer tools (which have a great debugger), they have a special feature called snippits to help you with just that. 
 
 ##Snippits
 
@@ -19,4 +19,4 @@ You can access snippits through the chrome developer tools, under sources. Just 
 
 Here’s a video example to show you how to get started: 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/8PLfeHQaZjs" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/8PLfeHQaZjs" frameborder="0" allowfullscreen></iframe>
